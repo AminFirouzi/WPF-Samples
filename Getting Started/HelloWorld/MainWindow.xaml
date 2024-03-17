@@ -7,7 +7,7 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="350" Width="525" Icon="app.ico">
     <Grid>
-        <TextBlock VerticalAlignment="Center" HorizontalAlignment="Center">
+        <TextBlock VerticalAlignment="Center" FontSize="30" HorizontalAlignment="Center">
             Hello, World!
         </TextBlock>
     </Grid>
